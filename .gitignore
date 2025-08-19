@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+
+# API Keys and Credentials
+Gemini API Key.txt
+google_services.py
+
+# Twilio Credentials
+Twilio Phone Number.txt
+Twilio Auth Token.txt
+Twilio Account SID.txt
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
